@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Modular Repair 2
 //
-//  Created by Pedro Garcia on 12/2/17
+//  Created by Pedro Garcia on 12/2/17.
 //  Copyright © 2017 Pedro Garcia. All rights reserved.
 //
 
